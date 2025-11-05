@@ -32,7 +32,7 @@ stages
 
                         {
 
-                                    echo ‘This is Clean Stage'
+                                    echo 'This is Clean Stage'
 
                         }
 
@@ -60,7 +60,7 @@ stage('Clean Success Stage')
 
                         {
 
-                                    echo ‘This is Clean Success Stage’
+                                    echo 'This is Clean Success Stage'
 
                         }
 
@@ -74,7 +74,7 @@ stage('Clean Success Stage')
 
                         {
 
-                                    echo ‘This is Build Stage’
+                                    echo 'This is Build Stage'
 
                         }
 
