@@ -95,7 +95,7 @@ stage('Clean Success Stage')
                         }
 
             }  
-stage('Build Success')
+stage7('Build Success')
 
             {
 
