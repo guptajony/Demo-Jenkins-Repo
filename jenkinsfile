@@ -94,6 +94,19 @@ stage('Clean Success Stage')
 
                         }
 
+            }  
+stage('Build Success')
+
+            {
+
+                        steps
+
+                        {
+
+                                    echo 'Build himself successful'
+
+                        }
+
             }                      
 
       }
