@@ -95,19 +95,6 @@ stage('Clean Success Stage')
                         }
 
             }  
-stage7('Build Success')
-
-            {
-
-                        steps
-
-                        {
-
-                                    echo 'Build himself successful'
-
-                        }
-
-            }                      
 
       }
 
